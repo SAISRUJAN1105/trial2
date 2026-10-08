@@ -1,4 +1,4 @@
 #remote changes
-a=10
-b=5
+a=18
+b=6
 print("sum=",a+b)
